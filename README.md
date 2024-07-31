@@ -1,6 +1,6 @@
 # Triki
 
-Juego desarrollado con Python usando el módulo PyGame.
+Triki, también conocido como Tic-Tac-Toe o Tres en Línea, es un clásico juego de estrategia para dos jugadores. El objetivo es ser el primero en colocar tres de tus fichas en línea, ya sea horizontal, vertical o diagonalmente. Esta versión del juego ha sido desarrollada utilizando la biblioteca PyGame, ofreciendo una experiencia interactiva y visualmente atractiva.
 
 Requisitos:
 - Python 3.8+ (3.8 Version recomendado).
